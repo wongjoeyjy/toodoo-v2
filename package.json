@@ -1,0 +1,28 @@
+{
+  "name": "toodoo-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellybellyy/toodoo-v2.git"
+  },
+  "author": "Wong Joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellybellyy/toodoo-v2/issues"
+  },
+  "homepage": "https://github.com/jellybellyy/toodoo-v2#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "js-sha256": "^0.9.0",
+    "method-override": "^3.0.0",
+    "momentjs": "^2.0.0",
+    "pg": "^8.4.2"
+  }
+}
